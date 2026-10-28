@@ -1,16 +1,16 @@
 # Adecco_HR_Analytics-Excel_Project
-This project was HR Analytics, focused on understanding employee attrition and identifying opportunities to improve employee retention.
+I worked on an HR Analytics project focused on understanding employee attrition and identifying opportunities to improve employee retention using Microsoft Excel.
 
-The main objective was to analyze employee data and understand how factors such as department, job role, salary, overtime, job satisfaction, and tenure were associated with employees leaving the organization.
+The dataset contained 1,470 employee records with information about demographics, departments, job roles, salary, job satisfaction, overtime, business travel, and tenure.
 
-I used Microsoft Excel as my primary tool. I worked with Excel formulas such as COUNTIF and AVERAGEIF, along with PivotTables and charts, to calculate attrition rates and compare different employee groups.
+My objective was to identify which employee groups had higher attrition rates and present the findings in a dashboard that HR could use to prioritize further investigation.
 
-The dataset contained 1,470 employee records, of which 237 were marked as attrition cases. This gave an overall attrition rate of approximately 16.12%.
+I used Excel formulas, PivotTables, conditional formatting, and charts to calculate attrition rates and compare employee groups.
 
-One important finding was that the Sales department had the highest attrition rate, at approximately 20.63%. I also found that Sales Representatives had an attrition rate of around 39.76%. Employees marked as working overtime had a substantially higher attrition rate than those who did not work overtime.
+During the analysis, I found that the overall attrition rate was approximately 16.12%. The Sales department had an attrition rate of 20.63%, while Sales Representatives had a rate of approximately 39.76%. I also observed a higher attrition rate among employees working overtime compared with those who were not.
 
-Another challenge was understanding how to interpret the results correctly. I learned that a high attrition rate in a particular group does not automatically explain why employees are leaving. Additional investigation is necessary before recommending a final solution.
+Based on these findings, I recommended reviewing workload distribution, employee engagement, career development, and role-specific retention practices.
 
-Based on the findings, I would recommend reviewing workload and overtime practices, investigating sales compensation and career progression, strengthening employee engagement, and creating an interactive HR dashboard to monitor attrition regularly.
+I created an Excel dashboard to present the key performance indicators, department-wise comparisons, job-role analysis, and recommendations.
 
-Overall, this project improved my Excel and analytical skills and helped me understand how HR data can be converted into actionable insights to support better workforce decisions.
+This project helped me improve my Excel analysis and dashboard development skills and understand how HR data can support evidence-based business decisions.
