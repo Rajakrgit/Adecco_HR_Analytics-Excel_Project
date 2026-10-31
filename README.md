@@ -1,16 +1,18 @@
 # Adecco_HR_Analytics-Excel_Project
-I worked on an HR Analytics project focused on understanding employee attrition and identifying opportunities to improve employee retention using Microsoft Excel.
+# 1. Project Overview
 
-The dataset contained 1,470 employee records with information about demographics, departments, job roles, salary, job satisfaction, overtime, business travel, and tenure.
+The Adecco HR Analytics project analyses employee data to understand
+workforce attrition and identify areas where the organisation may
+improve employee retention and job satisfaction.
 
-My objective was to identify which employee groups had higher attrition rates and present the findings in a dashboard that HR could use to prioritize further investigation.
+The business case describes Adecco India as experiencing employee
+turnover, with particular concern about junior-level employees and the
+Sales department. The analysis uses employee-level HR data to examine
+attrition across departments, job roles, overtime, business travel,
+gender, marital status, job involvement, training, and other workforce
+characteristics.
 
-I used Excel formulas, PivotTables, conditional formatting, and charts to calculate attrition rates and compare employee groups.
-
-During the analysis, I found that the overall attrition rate was approximately 16.12%. The Sales department had an attrition rate of 20.63%, while Sales Representatives had a rate of approximately 39.76%. I also observed a higher attrition rate among employees working overtime compared with those who were not.
-
-Based on these findings, I recommended reviewing workload distribution, employee engagement, career development, and role-specific retention practices.
-
-I created an Excel dashboard to present the key performance indicators, department-wise comparisons, job-role analysis, and recommendations.
-
-This project helped me improve my Excel analysis and dashboard development skills and understand how HR data can support evidence-based business decisions.
+I used Microsoft Excel to prepare and analyse the data, create Pivot
+Tables and charts, and build an interactive Employee Attrition
+Dashboard. The dashboard is intended to help HR teams and management
+monitor workforce indicators and investigate potential retention risks.
